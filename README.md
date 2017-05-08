@@ -1,10 +1,4 @@
-`7MM"""Yp,                      .g8"""bgd                          `7MMF'   `7MF'                        
-  MM    Yb                    .dP'     `M                            `MA     ,V       __,                
-  MM    dP  ,pW"Wq.`7M'   `MF'dM'       `   .gP"Ya `7MMpMMMb.         VM:   ,V       `7MM      ,pP""Yq.  
-  MM"""bg. 6W'   `Wb `VA ,V'  MM           ,M'   Yb  MM    MM          MM.  M'         MM     6W'    `Wb 
-  MM    `Y 8M     M8   XMX    MM.    `7MMF'8M""""""  MM    MM          `MM A'          MM     8M      M8 
-  MM    ,9 YA.   ,A9 ,V' VA.  `Mb.     MM  YM.    ,  MM    MM           :MM;           MM  ,, YA.    ,A9 
-.JMMmmmd9   `Ybmd9'.AM.   .MA.  `"bmmmdPY   `Mbmmd'.JMML  JMML.          VF          .JMML.db  `Ybmmd9'  
+BoxGen v1.3
 ---------------------------------------------------------------------------------------------------------------
 Prerequisite
 ---------------------------------------------------------------------------------------------------------------
